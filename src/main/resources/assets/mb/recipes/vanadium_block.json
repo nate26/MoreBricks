@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern": [
+        "VVV",
+        "VVV",
+        "VVV"
+    ],
+    
+    "key": {
+        "V": {
+            "item": "mb:vanadium"
+        }
+    },
+    
+    "result": {
+        "item": "mb:vanadium_block",
+        "count": 1
+    }
+}

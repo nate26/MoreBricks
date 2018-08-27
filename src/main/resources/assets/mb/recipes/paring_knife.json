@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern": [
+        "G  ",
+        " S ",
+        "  S"
+    ],
+    
+    "key": {
+        "G": {
+            "item": "minecraft:diamond"
+        },
+        
+        "S": {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result": {
+        "item": "mb:paring_knife",
+        "count": 1
+    }
+}

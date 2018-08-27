@@ -1,0 +1,7 @@
+//Items
+item.vanadium.name=Vanadium
+item.paring_knife.name=Paring Knife
+
+//Blocks
+tile.vanadium_block.name=Block of Vanadium
+tile.vanadium_ore.name=Vanadium Ore
