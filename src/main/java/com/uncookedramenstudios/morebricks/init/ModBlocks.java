@@ -14,5 +14,5 @@ public class ModBlocks {
 	public static final List<Block> BLOCKS = new ArrayList<Block>();
 	
 	public static final Block VANADIUM_BLOCK = new VanadiumBlock("vanadium_block", Material.IRON);
-	public static final Block VANADIUM_ORE = new VanadiumOre("vanadium_ore", Material.IRON);
+	public static final Block VANADIUM_ORE = new VanadiumOre("vanadium_ore", Material.ROCK);
 }

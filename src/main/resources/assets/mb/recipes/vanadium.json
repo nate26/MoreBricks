@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    
+    "ingredients": [
+        {
+            "item": "mb:vanadium_block"
+        }
+    ],
+    "result": {
+        "item": "mb:vanadium",
+        "count": 9
+    }
+}

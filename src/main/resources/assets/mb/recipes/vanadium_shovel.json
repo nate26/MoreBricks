@@ -2,9 +2,9 @@
     "type": "minecraft:crafting_shaped",
     
     "pattern": [
-        "V  ",
+        " V ",
         " S ",
-        "  S"
+        " S "
     ],
     
     "key": {
@@ -18,7 +18,7 @@
     },
     
     "result": {
-        "item": "mb:paring_knife",
+        "item": "mb:vanadium_shovel",
         "count": 1
     }
 }

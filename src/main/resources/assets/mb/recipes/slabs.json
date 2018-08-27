@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    
+    "ingredients": [
+        {
+            "item": "mb:paring_knife"
+        },
+        {
+            "item": "minecraft:oak_planks"
+        }
+    ],
+    "result": {
+        "item": "minecraft:oak_slab",
+        "count": 2
+    }
+}

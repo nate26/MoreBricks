@@ -2,9 +2,9 @@
     "type": "minecraft:crafting_shaped",
     
     "pattern": [
-        "V  ",
-        " S ",
-        "  S"
+        "VV ",
+        "VS ",
+        " S "
     ],
     
     "key": {
@@ -18,7 +18,7 @@
     },
     
     "result": {
-        "item": "mb:paring_knife",
+        "item": "mb:vanadium_axe",
         "count": 1
     }
 }

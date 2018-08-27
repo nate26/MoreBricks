@@ -13,5 +13,4 @@ public class VanadiumOre extends BlockBase {
 		setResistance(15.0F);
 		setHarvestLevel("pickaxe", 2);
 	}
-
 }
